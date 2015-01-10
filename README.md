@@ -17,4 +17,4 @@ Another paragraph
 
 http://www.google.co.uk
 
-[Google]{http://www.google.co.uk}
+[Google](http://www.google.co.uk)
